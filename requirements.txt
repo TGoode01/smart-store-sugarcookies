@@ -1,0 +1,27 @@
+# requirements.txt - list all the packages the project needs
+#
+# In this file, ignore hashes (#) - they are just used to create comments.
+# Lines starting with a hash are ignored when installing packages using this file. 
+
+# ======================================================
+# IMPORTANT: The contents of this file varies by project 
+# ======================================================
+
+# Some common dependencies are provided in this example.
+# Comment them in or out as you need them.
+
+# ======================================================
+# STEP A - CREATE A LOCAL PROJECT VIRTUAL ENV (.venv)
+# ======================================================
+
+# This option uses the most current or default Python -
+# if an older version is required, use the ADVANCED OPTION below. 
+
+# Create your local project virtual environment
+# This step ensures you have an isolated Python environment for your project.
+# This is typically just done once at the beginning of a project.
+# If it gets messed up, we can delete .venv and recreate it at any time. 
+
+# Run the following command to create a virtual environment in the project root.
+### On Windows, Use PowerShell (not cmd) - don't include the #:
+# py -m venv .venv
