@@ -25,3 +25,12 @@
 # Run the following command to create a virtual environment in the project root.
 ### On Windows, Use PowerShell (not cmd) - don't include the #:
 # py -m venv .venv
+
+## Windows Machines: Task 1. Activate
+
+Run the following command from the project root directory. 
+The command works in PowerShell.
+
+```powershell
+.venv\Scripts\activate
+```
